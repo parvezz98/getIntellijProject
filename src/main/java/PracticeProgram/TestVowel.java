@@ -5,5 +5,6 @@ public class TestVowel {
        // VowelProgram s= new VowelProgram();
         System.out.println(new VowelProgram().vowelCount("Jax"));
         System.out.println(new VowelProgram().vowelCount("Jax"));
+        System.out.println(new VowelProgram().vowelCount("Jax"));
     }
 }
