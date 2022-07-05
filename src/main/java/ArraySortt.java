@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class ArraySortt
 {
     public static void main(String [] at){
-        int a[]= {3,5,2,7,1};
+        int a[]= {0,1,0,1,0,0,1,1,1};
         int temp=0;
         System.out.println(Arrays.toString(a));
         for(int i=0;i<a.length;i++){

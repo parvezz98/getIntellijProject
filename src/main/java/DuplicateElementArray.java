@@ -1,7 +1,7 @@
 public class DuplicateElementArray {
     public static void main(String[] args) {
         //Initialize array
-        String [] arr = new String [] {"Java","Jax","Java","Rain","Java","Java","Jax"};
+        String [] arr = new String [] {"Java","Jax","Java","Rain","Java","Java"};
         System.out.println("Duplicate elements in given array: ");
         //Searches for duplicate element
         for(int i = 0; i < arr.length; i++) {
